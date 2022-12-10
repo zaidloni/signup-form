@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+.container {
+  padding: 150px 200px;
+  background-color: black;
+}
+.title {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 77px;
+}
+form input {
+  color: white;
+  background-color: black;
+  border: none;
+  border-bottom: 1px solid white;
+  text-decoration: none;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 29px;
+}
+.box {
+  width: 1177px;
+  height: 46.01px;
+}
+form label {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 29px;
+}
+.btn {
+  width: 226px;
+  height: 58px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 29px;
+  color: black;
+  background-color: white;
+}
